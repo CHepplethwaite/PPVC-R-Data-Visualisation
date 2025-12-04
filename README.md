@@ -1,8 +1,8 @@
 # **PPVC Value Chain Ranking – Data Visualisation & Graphics Portfolio**
 
-This repository contains the **data visualisation, graphics design, and copyediting work** I produced for the **PPVC Value Chain Ranking Report**, a research assignment completed for **ANAPRI** under the **Programme for Building Better Policies, Institutions and Systems for Resilient and Competitive Value Chains (PPVC)**.
+This repository contains the **data visualisation, graphics design, and copyediting work** I produced for the **PPVC Value Chain Ranking Report**, a research assignment completed for **[ANAPRI](https://www.anapri.net/)** under the **[The Policy Prioritization through Value Chain Analysis (PPVC) ](https://www.anapri.net/programmes-and-projects/ppvc/)**.
 
-PPVC is funded by the **Bill & Melinda Gates Foundation**, and the analytical research for this work was carried out by the **Institute of Statistical, Social and Economic Research (ISSER), Ghana**.
+PPVC is funded by the **[Gates Foundation](https://www.gatesfoundation.org/)**, and the analytical research for this work was carried out by the **[Institute of Statistical, Social and Economic Research (ISSER)](https://isser.ug.edu.gh/), Ghana**.
 My role involved:
 
 * Data cleaning and preparation for visual outputs
@@ -45,7 +45,7 @@ All visualisations were produced using **R**, primarily with:
 
 /data           # Non-confidential datasets
 /plots          # PNG charts and graphics
-/reports   # Optional R Markdown / Quarto rendered outputs / PDF report
+/reports        # Optional R Markdown / Quarto rendered outputs / PDF report
 /scripts        # All R scripts used to generate 
 README.md
 ```
@@ -54,12 +54,12 @@ README.md
 
 ## **3. Key Visualisations**
 
-### **3.1 Heatmap: Value Chain Performance by Metric**
+### **3.1 Total Commodity Potential: Score Breakdown by Metric**
 
-*A high-level comparison of all value chains across core PPVC indicators.*
+*A high-level comparison of all value chains across three core PPVC indicators.*
 
 ```
-![Heatmap Overview](outputs/plots/heatmap_value_chain.png)
+![Heatmap Overview](plots/Figure 20 (Option 1).png)
 ```
 
 ---
