@@ -28,14 +28,14 @@ The analysis focuses on comparing agricultural value chains across multiple metr
 * Business development indicators
 * Final ranking composites
 
-All visualisations were produced using **R**, primarily with:
+All visualisations were produced using **[R](https://www.r-project.org/)**, primarily with:
 
-* **dplyr**
-* **ggplot2**
-* **fmsb**
-* **tidyr**
-* **GGally**
-* **patchwork**
+* **[dplyr](https://dplyr.tidyverse.org/)**
+* **[ggplot2](https://ggplot2.tidyverse.org/)**
+* **[fmsb](https://cran.r-project.org/web/packages/fmsb/index.html)**
+* **[tidyr](https://tidyr.tidyverse.org/)**
+* **[GGally](https://www.rdocumentation.org/packages/GGally/)**
+* **[patchwork](https://patchwork.data-imaginist.com/)**
 
 ---
 
@@ -151,7 +151,7 @@ This process ensured that the final graphics were both analytically sound and vi
 * **[ANAPRI](https://anapri.net/)** – Project Client
 * **[Institute of Statistical, Social and Economic Research (ISSER)](https://isser.ug.edu.gh/), Ghana** – Lead Research Institution
 * **[Gates Foundation](https://www.gatesfoundation.org/)** – Project Funder
-* **Clifford Hepplethwaite** – Data visualisation, graphics design, copyediting
+* **[Clifford Hepplethwaite](https://www.linkedin.com/in/clifford-hepplethwaite-2b5204348/)** – Data visualisation, graphics design, copyediting
 
 ---
 
@@ -161,5 +161,6 @@ For data visualisation, analytics, or report design work:
 
 **Clifford Hepplethwaite**
 Email: *cliffordrh@gmail.com*
+X (Twitter): [x.com/CHepplethwaite](https://x.com/CHepplethwaite)
 
 ---
