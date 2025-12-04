@@ -135,15 +135,10 @@ This process ensured that the final graphics were both analytically sound and vi
 
 ---
 
-## **5. Tools Used**
+## **5. Other Tools Used**
 
-* **R (RStudio)**
-* **tidyverse**
-* **fmsb**
-* **GGally**
-* **patchwork**
-* **Inkscape / Illustrator** (for final graphic refinement, optional)
-
+* **[R (RStudio)](https://posit.co/download/rstudio-desktop/)**
+* **[tidyverse](https://tidyverse.org/)**
 ---
 
 ## **6. Credits & Acknowledgements**
@@ -162,7 +157,9 @@ For data visualisation, analytics, or report design work:
 **Clifford Hepplethwaite**<br/>
 
 Email: *clifford@tumpetech.com*<br/>
+Website: [www.tumpetech.com](https://tumpetech.com/)<br/>
 X (Twitter): [x.com/CHepplethwaite](https://x.com/CHepplethwaite)<br/>
 LinkedIn: [Clifford Hepplethwaite](https://www.linkedin.com/in/clifford-hepplethwaite-2b5204348/) 
+
 
 ---
