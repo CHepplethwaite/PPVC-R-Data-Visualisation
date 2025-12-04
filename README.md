@@ -59,122 +59,92 @@ README.md
 ![Bar Chart Overview](/plots/figure_20_option_1.png)
 
 ---
----
 ![Figure](plots/Figure.png)
 
----
 ---
 ![Graph](plots/Graph.png)
 
 ---
----
 ![Figure 20 Option 1](plots/figure_20_option_1.png)
 
----
 ---
 ![Figure 20 Option 2](plots/figure_20_option_2.png)
 
 ---
----
 ![Figure 21](plots/figure_21.png)
 
----
 ---
 ![Figure 21 Option 2](plots/figure_21_option_2.png)
 
 ---
----
 ![Figure 22 Option 2](plots/figure_22_option_2.png)
 
----
 ---
 ![Figure 22 Option 3](plots/figure_22_option_3.png)
 
 ---
----
 ![Figure 22 Option 4](plots/figure_22_option_4.png)
 
----
 ---
 ![Figure 23 Option 1](plots/figure_23_option_1.png)
 
 ---
----
 ![Figure 23 Option 2](plots/figure_23_option_2.png)
 
----
 ---
 ![Figure 23 Option 3](plots/figure_23_option_3.png)
 
 ---
----
 ![Figure 23 Option 4](plots/figure_23_option_4.png)
 
----
 ---
 ![Figure 23 Option 5](plots/figure_23_option_5.png)
 
 ---
----
 ![Figure 24 Option 1](plots/figure_24_option_1.png)
 
----
 ---
 ![Figure 24 Option 2](plots/figure_24_option_2.png)
 
 ---
----
 ![Figure 24 Option 3](plots/figure_24_option_3.png)
 
----
 ---
 ![Figure 24 Option 4](plots/figure_24_option_4.png)
 
 ---
----
 ![Figure 25 Option 1](plots/figure_25_option_1.png)
 
----
 ---
 ![Figure 25 Option 2](plots/figure_25_option_2.png)
 
 ---
----
 ![Figure 25 Option 3](plots/figure_25_option_3.png)
 
----
 ---
 ![Figure 26 Option 1](plots/figure_26_option_1.png)
 
 ---
----
 ![Figure 26 Option 2](plots/figure_26_option_2.png)
 
----
 ---
 ![Figure 26 Option 3](plots/figure_26_option_3.png)
 
 ---
----
 ![Figure 26 Option 4](plots/figure_26_option_4.png)
 
----
 ---
 ![Figure 26 Option 5](plots/figure_26_option_5.png)
 
 ---
----
 ![Table 10 Option 1](plots/table_10_option_1.png)
 
----
 ---
 ![Table 10 Option 3](plots/table_10_option_3.png)
 
 ---
----
 ![Table 10 Option 4](plots/table_10_option_4.png)
 
----
 ---
 ![Table 11](plots/table_11.png)
 
@@ -183,10 +153,8 @@ README.md
 ![Table 11 Option 2](plots/table_11_option_2.png)
 
 ---
----
 ![Table 11 Option 3](plots/table_11_option_3.png)
 
----
 ---
 ![Table 22](plots/table_22.png)
 
