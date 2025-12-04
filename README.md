@@ -59,7 +59,7 @@ README.md
 *A high-level comparison of all value chains across three core PPVC indicators.*
 
 ```
-![Bar Chart Overview](plots/figure_20_option_1.png)
+![Bar Chart Overview](/plots/figure_20_option_1.png)
 ```
 
 ---
