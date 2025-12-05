@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 # **PPVC Value Chain Ranking – Data Visualisation & Graphics Project**
 
 This repository contains the **data visualisation, graphics design, and copyediting work** I produced for the **PPVC Value Chain Ranking Report**, a research assignment completed for **[ANAPRI](https://www.anapri.net/)** under the **[The Policy Prioritization through Value Chain Analysis (PPVC) ](https://www.anapri.net/programmes-and-projects/ppvc/)**.
