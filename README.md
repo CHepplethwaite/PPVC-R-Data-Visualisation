@@ -4,7 +4,7 @@
 
 This repository contains the **data visualisation, graphics design, and copyediting work** I produced for the **PPVC Value Chain Ranking Report**, a research assignment completed for **[ANAPRI](https://www.anapri.net/)** under the **[The Policy Prioritization through Value Chain Analysis (PPVC) ](https://www.anapri.net/programmes-and-projects/ppvc/)**.
 
-PPVC is funded by the **[Gates Foundation](https://www.gatesfoundation.org/)**, and the analytical research for this work was carried out by the **[Institute of Statistical, Social and Economic Research (ISSER)](https://isser.ug.edu.gh/), Ghana**.
+The analytical research for this work was carried out by the **[Institute of Statistical, Social and Economic Research (ISSER)](https://isser.ug.edu.gh/), Ghana**.
 My role involved:
 
 * Data cleaning and preparation for visual outputs
@@ -196,21 +196,4 @@ This process ensured that the final graphics were both analytically sound and vi
 
 * **[ANAPRI](https://anapri.net/)** – Project Client
 * **[Institute of Statistical, Social and Economic Research (ISSER)](https://isser.ug.edu.gh/), Ghana** – Lead Research Institution
-* **[Gates Foundation](https://www.gatesfoundation.org/)** – Project Funder
-* **Clifford Hepplethwaite** – Data visualisation, graphics design, copyediting
 
----
-
-## **7. Contact**
-
-For data visualisation, analytics, or report design work:
-
-**Clifford Hepplethwaite**<br/>
-
-Email: *clifford@tumpetech.com*<br/>
-Website: [www.tumpetech.com](https://tumpetech.com/)<br/>
-X (Twitter): [x.com/CHepplethwaite](https://x.com/CHepplethwaite)<br/>
-LinkedIn: [Clifford Hepplethwaite](https://www.linkedin.com/in/clifford-hepplethwaite-2b5204348/) 
-
-
----
